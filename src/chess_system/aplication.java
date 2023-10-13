@@ -1,7 +1,5 @@
 package chess_system;
 
-import board_game.Board;
-import board_game.Position;
 import chess.ChessMatch;
 
 public class aplication {
